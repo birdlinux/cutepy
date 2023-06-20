@@ -35,16 +35,6 @@ x = HEX.print("6771fc")
 print(f"Hello {x}RGB{RGB.reset} test {x}aa{RGB.reset}")
 ```
 
-## System Detection
-
-![image](https://user-images.githubusercontent.com/123122904/234285304-16d2ba46-af42-40df-8362-6ffe22bcd447.png)
-
-```py
-from cutepy import System
-
-x = System.detect()
-print(x)
-```
 
 ## Terminal Clear
 
@@ -56,16 +46,6 @@ from cutepy import Clear
 Clear.sys()
 ```
 
-## Hash Identifier
-
-![image](https://user-images.githubusercontent.com/123122904/234285702-521d7f57-d548-4e96-972a-5cd05447f001.png)
-
-```py
-from cutepy import Identify
-
-x = Identify.hash("a875e3b9476d5d976160b308ace6b62e")
-print(x)
-```
 
 ## Color Palette
 
