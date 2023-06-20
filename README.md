@@ -32,7 +32,7 @@ print(f"Hello {x}RGB{RGB.reset} test {x}aa{RGB.reset} ")
 from cutepy import HEX
 
 x = HEX.print("6771fc")
-print(f"Hello {x}RGB{RGB.reset} test {x}aa{RGB.reset}")
+print(f"Hello {x}HEX{HE.reset} test {x}aa{HEX.reset}")
 ```
 
 
